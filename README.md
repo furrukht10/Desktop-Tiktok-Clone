@@ -19,9 +19,9 @@ To use the application as a developer and add videos to the database, please clo
 ```
 cd tiktok-backend
 npm install
-npm run
+npm start
 ```
-You can then open up Postman and use the localhost URL to send a POST request with the appropriate requirements
+You can then open up Postman and use localhost to send a POST request with the appropriate requirements
 of a video model.
 
 Note, you must set up the config.env variables for your PORT and MongoDB connection
@@ -32,4 +32,7 @@ Note, you must set up the config.env variables for your PORT and MongoDB connect
 ### Deployed Version
 
 https://tiktok-clone-8030b.web.app/
+
+![React App](https://user-images.githubusercontent.com/79553858/148662472-e072d04c-d3a7-4741-a1e3-d121d86571f6.gif)
+
 
