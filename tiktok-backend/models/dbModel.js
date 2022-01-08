@@ -10,4 +10,5 @@ const tiktokSchema = mongoose.Schema({
   shares: String,
 });
 
+//testing
 export default mongoose.model("tiktokVideos", tiktokSchema);
