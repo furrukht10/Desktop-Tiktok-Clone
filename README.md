@@ -15,7 +15,7 @@ and add more videos to the API. User posting functionality will be implemented s
 To use the application as a user, simple head over to the <a href="https://tiktok-clone-8030b.web.app/">Deployed Version</a>
 Click on a video to play it, and press the like button to like a video. Scroll down to view more videos.
 
-To use the application as a developer and add videos to the database, please clone the repository.
+To use the application as a developer and add videos to the database, clone the repository.
 ```
 cd tiktok-backend
 npm install
