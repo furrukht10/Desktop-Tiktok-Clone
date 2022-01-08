@@ -12,9 +12,5 @@ export const getAllVideos = async (req, res) => {
 
 export const postVideo = async (req, res) => {
   const dbVideos = await Videos.create(req.body);
-  if (err) {
-    res.status(500).send(err);
-  } else {
-    res.status(201).send(dbVideos);
-  }
+  res.status(201).send(dbVideos);
 };
