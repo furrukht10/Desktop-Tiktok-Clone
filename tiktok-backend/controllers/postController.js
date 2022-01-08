@@ -4,7 +4,7 @@ export const getAllVideos = async (req, res) => {
   const videos = await Videos.find({});
 
   if (!videos) {
-    res.status(500).send(err);
+    res.status(500).send("");
   } else {
     res.status(200).send(videos);
   }
