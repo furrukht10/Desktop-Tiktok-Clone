@@ -45,4 +45,8 @@ https://tiktok-clone-8030b.web.app/
 
 ![React App](https://user-images.githubusercontent.com/79553858/148662472-e072d04c-d3a7-4741-a1e3-d121d86571f6.gif)
 
+## To Do
+
+Implement posting functionality for users
+Implement commenting functionality for users
 
