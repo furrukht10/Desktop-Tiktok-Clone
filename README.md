@@ -21,6 +21,16 @@ cd tiktok-backend
 npm install
 npm start
 ```
+To retrive all the posts
+```
+GET : localhost:/v2/posts
+```
+To make a post:
+```
+POST: localhost:/v2/posts
+In req.body (json) include -> url, channel, messages, song, likes, shares, description
+```
+
 You can then open up Postman and use localhost to send a POST request with the appropriate requirements
 of a video model.
 
