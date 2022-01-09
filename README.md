@@ -1,6 +1,6 @@
 
 <h1 align ="center" > Tiktok Clone </h1>
-A desktop-oriented version of Tiktok being built with React.js, Node.js, Express.js, MongoDB & Firebase (MERN Stack)
+A MERN Stack, desktop-oriented version of Tiktok being built with React.js, Node.js, Express.js, MongoDB & Firebase (MERN Stack)
 
 This is still in development and a lot of implementations will be made accordingly.
 
