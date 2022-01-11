@@ -7,8 +7,8 @@ This is still in development and a lot of implementations will be made according
 This simple work-in progress application mocks Tiktok and allows users to view and play videos. Developers can connect to a database
 and add more videos to the API. User posting functionality will be implemented soon.
 
-- Utilized Node.js, Express.js, and MongoDB to develop a RESTful API and run the Backend (Deployed on Heroku)
-- Utilized React.js + Material UI for the Frontend (Deployed on Firebase)
+- Utilized Node.js, Express.js, and MongoDB to develop a RESTful API and run the back-end (Deployed on Heroku)
+- Utilized React.js + Material UI for the front-end (Deployed on Firebase)
 
 ## How To Use
 
